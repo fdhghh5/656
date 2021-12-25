@@ -1,5 +1,5 @@
 {
-  "name": "heroku-vless",
+  "name": "ss",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "637e7536-bf1f-4c22-9d7b-891c50f927d6"
     }
   },
-  "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "website": "https://github.com/fdhghh5/",
+  "repository": "https://github.com/fdhghh5/656",
   "stack": "container"
 }
